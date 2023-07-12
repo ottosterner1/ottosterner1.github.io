@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-GB"
 title                    : "Otto Sterner"
 title_separator          : "-"
-subtitle                 : "Version 1.0"
-name                     : "Otto Sterner"
+subtitle                 : 
+name                     : "Projects"
 description              : "Showcase projects and posts"
 url                      : "https://ottosterner1.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ottosterner1/ottosterner1.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/otto_profile.png"
+logo                     : 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "Otto Sterner"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Master's graduate @ University of Loughborough and student @ University of Edinburgh"
+  avatar           : "/assets/images/otto_profile.png"
+  bio              : "A list of projects that I've worked on"
   location         : "Somewhere"
   email            : "ottosterner1@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ottosterner1@gmail.com"
+      # url: "mailto:ottosterner1@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
