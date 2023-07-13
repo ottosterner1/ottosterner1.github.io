@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ATP data analysis, creating number system"
+title:  "ATP ranking analysis"
 date:   2023-07-14
 ---
 
