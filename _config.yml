@@ -316,3 +316,12 @@ defaults:
       layout: single
       author_profile: false
       share: true
+
+navigation:
+  main:
+    - url: /
+      title: Home
+    - url: /blog/
+      title: Blog
+    - url: /projects/
+      title: Projects
