@@ -1,8 +1,8 @@
 ---
 title: "ATP ranking analysis"
-excerpt: "Number system for every ATP player!"
-header:
-  image: "/assets/images/watercolour-pastel-man-serve.png"
+excerpt: "Number system for every ATP player!
+
+<br/><img src='/images/watercolour-pastel-man-serve.png'>"
 collection: portfolio
 ---
 
