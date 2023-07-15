@@ -8,6 +8,6 @@ collection: portfolio
 
 This is my post on creating a number for each player on the ATP tour.
 
-Here is my table on ATP rankings:
+### ATP rankings this year, elo rating system
 
 {% include elo_ranking_adjusted.md %}
